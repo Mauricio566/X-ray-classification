@@ -1,2 +1,10 @@
 data/
 venv/
+/data
+
+.mlflow/
+mlruns/
+
+.vscode/
+__pycache__/
+*.pyc

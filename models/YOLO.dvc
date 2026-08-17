@@ -1,0 +1,6 @@
+outs:
+- md5: 22ab138a764f1bffbf058ca031aefd05.dir
+  size: 81070864
+  nfiles: 3
+  hash: md5
+  path: YOLO
